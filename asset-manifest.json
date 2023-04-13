@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/preeti-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/preeti-portfolio/static/js/main.22c88615.js",
+    "static/js/787.62c38d17.chunk.js": "/preeti-portfolio/static/js/787.62c38d17.chunk.js",
+    "static/media/logo.svg": "/preeti-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/preeti-portfolio/index.html",
+    "main.073c9b0a.css.map": "/preeti-portfolio/static/css/main.073c9b0a.css.map",
+    "main.22c88615.js.map": "/preeti-portfolio/static/js/main.22c88615.js.map",
+    "787.62c38d17.chunk.js.map": "/preeti-portfolio/static/js/787.62c38d17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.22c88615.js"
+  ]
+}
