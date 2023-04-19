@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          my first website of react is hosted using gitgub
+          my first website of reactjs website that is deploed using github  on ec2 
         </a>
       </header>
     </div>
